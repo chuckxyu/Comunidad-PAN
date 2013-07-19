@@ -1,9 +1,9 @@
-#appname: Comunidad PAN
-#appid: org.pan.df.comunidad
-#type: mobile
-#guid: b3d69d94-536a-4677-8d69-3ffe990a03d8
-#version: 1.0
-#publisher: not specified
-#url: not specified
-#image: appicon.png
-#desc: not specified
+#appname:Comunidad PAN
+#appid:org.pan.df.comunidad
+#type:mobile
+#guid:b3d69d94-536a-4677-8d69-3ffe990a03d8
+#version:1.0
+#publisher:carlosgarcia
+#url:http://
+#image:appicon.png
+#desc:not specified
