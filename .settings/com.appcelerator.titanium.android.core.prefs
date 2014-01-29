@@ -1,0 +1,9 @@
+android/ATTR_PROJECT_NAME=Comunidad PAN
+android/abi=armeabi-v7a
+android/distribute_path=/Users/carlosgarcia
+android/keystore_alias=comunidad
+android/keystore_password=carlos79
+android/keystore_path=/Users/carlosgarcia/comunidadpan.keystore
+android/recent_output=/Users/carlosgarcia
+android/sdk_version=4.4.2
+eclipse.preferences.version=1
