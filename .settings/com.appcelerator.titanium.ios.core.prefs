@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Comunidad-PAN
+iosLaunchConfigurationAttributes/appid=org.pan.mx.df.comunidad
+iosLaunchConfigurationAttributes/certificate=Carlos Garcia (E6WM3TLP8T)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=7.1
+iosLaunchConfigurationAttributes/uuid=31C844DD-FB55-42B4-8DC7-2BFEB38346B2
+provisioning_profiles/development/31C844DD-FB55-42B4-8DC7-2BFEB38346B2/appid=*
+provisioning_profiles/development/31C844DD-FB55-42B4-8DC7-2BFEB38346B2/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/31C844DD-FB55-42B4-8DC7-2BFEB38346B2/uuid=31C844DD-FB55-42B4-8DC7-2BFEB38346B2
+provisioning_profiles/distribution/6D0B3F0C-A6EA-4F27-953D-33D6E652D7D2/appid=*
+provisioning_profiles/distribution/6D0B3F0C-A6EA-4F27-953D-33D6E652D7D2/name=general
+provisioning_profiles/distribution/6D0B3F0C-A6EA-4F27-953D-33D6E652D7D2/uuid=6D0B3F0C-A6EA-4F27-953D-33D6E652D7D2

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>org.pan.mx.df.comunidad</id>
+    <property name="acs-oauth-secret-development" type="string">cO0oodOgEm1n4IwdqbC0X4ajMU3esWxa</property>
+    <property name="acs-oauth-key-development" type="string">avP4vKLQlufOGboAXjbOrfKT0rXPj4t1</property>
+    <property name="acs-api-key-development" type="string">2YxSwQSc4m3Bg8yIR0C9ufyceSTmXzwh</property>
+    <property name="acs-oauth-secret-production" type="string">Zsviut04DGb2qsYhOUk3MoMlLOZnmeiG</property>
+    <property name="acs-oauth-key-production" type="string">Xu1uf1KTRnBia8SeiGb5Nf1e5tMAo3Ak</property>
+    <property name="acs-api-key-production" type="string">nnCpTs8wc87mjm1iZ1k1fBjUL8yBckDn</property>
+    <id>org.pan.mx.comunidad.df</id>
     <name>Comunidad PAN</name>
     <version>3</version>
     <publisher>carlosgarcia</publisher>
     <url>http://</url>
-    <description>not specified</description>
+    <description>comunidad</description>
     <copyright>2013 by carlosgarcia</copyright>
-    <icon>logo.png</icon>
+    <icon>arbolsolo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
     <statusbar-style>default</statusbar-style>
@@ -29,7 +35,7 @@
         </orientations>
     </iphone>
     <android xmlns:android="http://schemas.android.com/apk/res/android">
-        <manifest android:versionCode="5" android:versionName="4"/>
+        <manifest android:versionCode="6" android:versionName="4"/>
     </android>
     <mobileweb>
         <precache/>
@@ -39,14 +45,16 @@
         </splash>
         <theme>default</theme>
     </mobileweb>
-    <modules/>
+    <modules>
+        <module platform="commonjs">ti.cloud</module>
+    </modules>
     <deployment-targets>
         <target device="android">true</target>
         <target device="blackberry">false</target>
-        <target device="ipad">true</target>
+        <target device="ipad">false</target>
         <target device="iphone">true</target>
         <target device="mobileweb">false</target>
         <target device="tizen">false</target>
     </deployment-targets>
-    <sdk-version>3.2.0.GA</sdk-version>
+    <sdk-version>3.2.2.GA</sdk-version>
 </ti:app>

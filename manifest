@@ -1,9 +1,9 @@
 #appname:Comunidad PAN
-#appid:org.pan.mx.df.comunidad
-#type:ipad
+#appid:org.pan.mx.comunidad.df
+#type:mobile
 #guid:b3d69d94-536a-4677-8d69-3ffe990a03d8
 #version:1.0
 #publisher:carlosgarcia
 #url:http://
 #image:appicon.png
-#desc:not specified
+#desc:comunidad
